@@ -26,7 +26,7 @@
 |-----|-----------------|------------------------------| ------------------------ |
 | 1   | 6월 21일 (화)     | ~30p                          | Floyd, Jimmy, Jessie, Terry, Ray, Harry, Stella,<br />James, Bentley, Linus, Reed, Daniel, Daisy |
 | 2   | 6월 28일 (화)     | ~59p                          | Floyd, Jimmy, ~Jessie~, Terry, Ray, Harry, ~Stella~,<br />James, Bentley, Linus, Reed, Daniel, ~Daisy~,<br/>Hayley |
-| 3   | 7월  5일 (화)     | ~87p                          |  |
+| 3   | 7월  5일 (화)     | ~87p                          | Floyd, Jimmy, Jessie, ~Terry~, ~Ray~, ~Harry~, ~Stella~,<br />~James~, Bentley, Linus, ~Reed~, Daniel, Daisy,<br/>Hayley |
 | 4   | 7월 12일 (화)     | ~119p                         |  |
 | 5   | 7월 19일 (화)     | ~144p                         |  |
 | 6   | 7월 26일 (화)     | ~170p                         |  |
