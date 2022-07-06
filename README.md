@@ -139,5 +139,13 @@ git commit && git push
                 <br />
                 <sub><b>Terry</b></sub>
         </td>
+        <td align="center">
+          <a href="https://github.com/livvjh">
+                <img src="https://avatars.githubusercontent.com/u/48043799?v=4" width="100;" alt="james"/>
+                <br />
+                <sub><b>James</b></sub>
+            </a>
+        </td>
     </tr>
 </table>
+
